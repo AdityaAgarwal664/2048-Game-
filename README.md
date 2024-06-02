@@ -2,7 +2,7 @@
 
 This project is a simple implementation of the popular 2048 game using HTML, CSS, and JavaScript. It provides a web-based version of the game that can be played directly in a web browser.
 
-##Play It here: https://adityaagarwal664.github.io/2048-Game-/
+##Play It here: [CLICK HERE](https://adityaagarwal664.github.io/2048-Game-/)
 ## How to Play
 
 1. Open the `index.html` file in a web browser.
